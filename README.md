@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucía</h1>
 <h3 align="center">A curious student learning mobile app development</h3>
 
-- 🌱 I’m currently learning **API REST with SpringBoot and Java, and mobile app development in Kotlin**
+- 🌱 I’m currently learning **Jetpack Compose to build apps with Kotlin and Firebase**
 
 - 📫 How to reach me **luciasimonortiz@gmail.com**
 
